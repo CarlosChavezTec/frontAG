@@ -34,7 +34,7 @@ const Home = () => {
 
   return (
     <Layout pageTitle="Home">
-      <h2>Welcome!</h2>
+      <h2>Welcome Carlos!</h2>
       {user && (
         <div>
           <p>Name: {user.Name}</p>
